@@ -37,3 +37,5 @@ When pokemon_Analysis.ipynb is executed, the following actions take place:
 - Based on user queries, the script can answer questions related to the dataset.
 - Additionally, the script has the capability to retrieve photographs of Pokémon from the internet using a RESTful API.
 
+For further reading, refer to the post on [Medium](https://medium.com/@syedghazisarwat/a-simple-analysis-of-pok%C3%A9mon-exploring-the-pok%C3%A9mon-world-with-python-b60bae7ca8e5)
+
