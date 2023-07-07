@@ -5,7 +5,7 @@
     <img src="./preview.jpg" alt="Preview" width="500"/>
 </center>
 
-As a developer at pokémonunleashed.org, your responsibility is to develop an interactive Python script for your board members. These members, just like you, have a strong passion for the Pokémon world. To accomplish this task, you will be following the CRoss Industry Standard Process for Data Mining (CRISP-DM) methodology. 
+As a developer at pokémonunleashed.org, your responsibility is to develop an interactive Python script for your board members. These members, just like you, have a strong passion for the Pokémon world. To accomplish this task, you will be following the Cross Industry Standard Process for Data Mining (CRISP-DM) methodology. 
 
 For this, you have done your research and broken down the process for this task as follows:
 
